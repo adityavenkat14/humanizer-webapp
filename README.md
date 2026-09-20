@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/6fdb37b2-3de8-4e96-82f2-2e3f1e45cfb0
+View your app in AI Studio: https://humanizer-webapp-rho.vercel.app/
 
 ## Run Locally
 
